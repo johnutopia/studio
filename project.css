@@ -1,0 +1,109 @@
+.header{
+    background-color: rgb(44, 41, 41);
+    display: flex;
+    text-decoration: none;
+}
+
+.header a.a1{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    padding: 10px 30px;
+    float: left;
+    font-size: 25px;
+}
+
+.btn{
+    color: rgb(172, 16, 16);
+    background-color: rgba(36, 45, 128, 0.685);
+    padding: 12px;
+    margin: 10px;
+    border: none;
+    border-radius: 10%;
+    float: right;
+    position: relative;
+    margin-left: 1040px;
+    width: 89px;
+    height: 40px;
+}
+
+.nav{
+    background-color: black;
+    float: center;
+    margin: 0px 0px;
+    display: flex;
+}
+
+.open-button{
+background-color: rgb(228, 87, 6);
+}
+
+.nav a{
+    text-decoration: none;
+    padding: 30px 80px;
+    color: white;
+    margin: 0px 44.2px;
+    
+}
+
+.nav img{
+    padding: 20px 100px;
+}
+
+.main{
+    text-align: center;
+    background-image: url(https://html.iwthemes.com/studio-landing-2020/no-arrows/images/home-studio.jpg);
+    background-size: 100%;
+      
+}
+.img1 {
+    border-radius: 50%;
+}
+
+.homepg{
+    font-size:4em;
+    align-items: center;
+    justify-content: center; 
+    text-align: center;       
+}
+
+.works{
+    text-align: left;
+    background-color: rgb(14, 106, 143);
+}
+
+.about{
+    text-align: left;
+    background-image: url(https://html.iwthemes.com/studio-landing-2020/no-arrows/images/about-studio.jpg);
+   
+}
+
+.about1{
+    flex-direction: column;
+    display: inline-block;
+    margin: 70px 0px;
+    padding-left: 250px;
+    justify-content: center;
+    background-color: transparent;
+}
+
+.namedetail{
+    padding-left: 80px;
+}
+.link4about{
+    padding-left: 80px;
+}
+
+.img1{
+    width: 300px;
+}
+
+.contact{
+    text-align: center;
+    background-color: rgb(20, 91, 109);
+}
+
+.footer{
+    text-align: center;
+    color: white;
+    background-color: rgb(207, 148, 22);
+}
